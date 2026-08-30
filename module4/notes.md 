@@ -1,0 +1,7 @@
+In this module, we reviewed the basics of using Git and GitHub
+We covered some very important Git commands for adding/staging files
+Committing changes locally with commit -m "<descriptive message>"
+and pushing those changes to remote server on GitHub with push
+
+-also reviewed the importance of being able to see what changes are
+currently being staged with status. 
